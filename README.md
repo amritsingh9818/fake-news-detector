@@ -128,7 +128,7 @@ Our best-performing model achieved the following metrics:
 
 ## 💬 Feedback and Questions
 
-If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at jitukumar9387@gmail.com.
+If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at amritsingh9818@gmail.com.
 
 Thank you for exploring the Fake News Detection Project! We hope you find it useful and informative.
 
